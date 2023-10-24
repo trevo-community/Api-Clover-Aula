@@ -1,0 +1,17 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "api de teste para o youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "clover mods",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "ssl-express-www": "^3.2.1"
+  }
+}
